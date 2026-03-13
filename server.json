@@ -1,0 +1,15 @@
+{
+  "name": "domaincheckr",
+  "description": "Check domain name availability instantly. Supports single checks, bulk checks, and smart suggestions. No API key or installation required.",
+  "remotes": [
+    {
+      "transportType": "streamable-http",
+      "url": "https://domaincheckr.fly.dev/mcp"
+    }
+  ],
+  "tools": [
+    {"name": "check_domain", "description": "Check if a single domain name is available for registration"},
+    {"name": "check_domains_bulk", "description": "Check up to 50 domain names at once"},
+    {"name": "suggest_domains", "description": "Generate and check domain name ideas for a keyword or business description"}
+  ]
+}
