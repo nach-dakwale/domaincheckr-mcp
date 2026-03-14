@@ -2,6 +2,8 @@
 
 Check domain name availability instantly using RDAP. No API key or installation required. Works as a remote MCP server.
 
+[![Domain Checker MCP server](https://glama.ai/mcp/servers/nach-dakwale/domaincheckr-mcp/badges/card.svg)](https://glama.ai/mcp/servers/nach-dakwale/domaincheckr-mcp)
+
 ## Quick Start
 
 This is a **remote MCP server** -- no local installation needed. Just add the URL to your MCP client.
